@@ -48,6 +48,15 @@
 />
 
 <!--START_SECTION:waka-->
-<!-- ![Commit activity](https://wakatime.com/api/smorcuend) -->
+
+```text
+C++           12 hrs 49 mins  █████████████████████▒░░░   85.13 %
+Markdown      55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Groovy        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Objective-C   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Git Config    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+INI           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+```
+
 <!--END_SECTION:waka-->
 
