@@ -38,13 +38,16 @@
 - 📫 Contact me : <a href="mailto:smorcuend@gmail.com">send me an E-mail</a>
 - ⚡ Fun fact: I'm hortelano and climbing addict
 
-
-<!--START_SECTION:waka-->
 [![smorcuend's GitHub stats](https://github-readme-stats.vercel.app/api?username=smorcuend)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smorcuend&exclude_repo=ilip-indect,CakePHP-scaffold,Browser-Plugin,BrowserDetect)](https://github.com/anuraghazra/github-readme-stats)
 [![smorcuend's github activity graph](https://github-activity-smorcuend.herokuapp.com/graph?username=smorcuend&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- ![Commit activity](https://wakatime.com/share/@4cfd27fc-31a5-4efe-a064-a4ca3decf7e5/36155d45-7a43-438b-9e30-f68867b604a8.svg) -->
+<img
+  src="https://github.com/smorcuend/smorcuend/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
 
+<!--START_SECTION:waka-->
+<!-- ![Commit activity](https://wakatime.com/api/smorcuend) -->
 <!--END_SECTION:waka-->
 
