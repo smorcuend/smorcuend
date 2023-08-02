@@ -44,8 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   4 mins          ███████████████▒░░░░░░░░░   61.43 %
-Bash   2 mins          █████████▓░░░░░░░░░░░░░░░   38.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
